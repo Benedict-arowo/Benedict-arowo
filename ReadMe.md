@@ -29,7 +29,4 @@ I look forward to the opportunities that lay ahead as I travel into the future. 
 ---
 [![](https://visitcount.itsvg.in/api?id=benedict-arowo&icon=0&color=1)](https://visitcount.itsvg.in)
 
----
-[![](https://visitcount.itsvg.in/api?id=Benedict-arowo&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
