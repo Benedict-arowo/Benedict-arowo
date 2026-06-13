@@ -1,32 +1,70 @@
-# 💫 About Me:
-Good day! I'm Ben, a motivated and passionate person who adores technology and all things coding. I've been a full-stack developer since I was in high school, developing my abilities in a variety of technologies like Django, the MERN stack, and the PERN stack.
+# Benedict Arowojolu-Alagwe
 
-I am incredibly happy when I use code to make concepts come to life and when I design intuitive user interfaces. I appreciate the difficulties and benefits that come with building web applications, from frontend design to constructing strong backends.
+Backend engineer and technical co-founder with 2+ years building distributed systems and transactional infrastructure for fintech and EdTech platforms. Currently building production systems at **[Centiiv](https://centiiv.com)** and co-founding **AfriRoots** — a gamified African language learning platform.
 
-
-Since the beginning of my career as a developer, I have been dedicated to lifelong learning. I enjoy the fast-paced nature of the tech sector and am constantly keen to look into new options in order to stay on top of the game.
-
-Beyond technical proficiency, I believe in the value of teamwork. My creativity is stimulated by teamwork, and I value the collaborative effort that produces excellent outcomes. I can communicate ideas effectively and participate actively in group work because of my strong communication skills.
-
-I enjoy a challenge, and I seize every chance to learn new things and broaden my horizons. I have an endless supply of interest, and I'm always looking for fresh problems to solve and new technologies to grasp.
-
-I look forward to the opportunities that lay ahead as I travel into the future. I'm confident in my abilities to have a beneficial influence in the field of technology with a combination of passion, talent, and perseverance. Together, let's code the future!
-
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Benedict-arowo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Benedict-arowo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Benedict-arowo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Benedict-arowo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Benedict-arowo&limit=5&theme=dark&combine_all_yearly_contributions=true)
+**Core stack:** TypeScript · Node.js · NestJS · PostgreSQL · Redis · RabbitMQ · Microsoft Azure · Docker
 
 ---
-[![](https://visitcount.itsvg.in/api?id=benedict-arowo&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## What I work on
+
+**At Centiiv** — backend infrastructure for a cross-border payments platform: escrow state machines tracking $10M+ in financial volume, real-time WebSocket dispute systems, RabbitMQ-driven microservice pipelines, and a public-facing merchant API integration layer.
+
+**At AfriRoots** — technical co-founder building an EdTech platform to preserve and document African languages in a gamified, Duolingo-style experience. Live beta with 50+ users and 30+ language contributors.
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [AfriRoots](https://github.com/Benedict-arowo) | Gamified African language learning platform (beta) | Next.js, PERN, Redis, Azure |
+| [Scissor](https://github.com/Benedict-arowo/Scissor---Capstone-Project) | URL analytics & security platform with threat scanning, geolocation analytics, background workers, and QR generation. Live at [arowobenedict.tech](https://arowobenedict.tech) | TypeScript, Express, PostgreSQL, Redis |
+| [CircleConnect](https://github.com/Benedict-arowo/CircleConnect) | Student collaboration platform | JavaScript, Express, MongoDB |
+
+---
+
+## Tech Stack
+
+**Languages**
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**Backend & Architecture**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socket.io&logoColor=white)
+
+**Databases & Caching**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+**Infrastructure**
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+**Frontend (Secondary)**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+---
+
+## GitHub Stats
+
+![Benedict's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Benedict-arowo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Benedict-arowo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/[your-handle])
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:benedict.arowo@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Website-000000?style=flat&logo=vercel&logoColor=white)](https://arowobenedict.tech)
