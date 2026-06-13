@@ -1,14 +1,14 @@
 # Benedict Arowojolu-Alagwe
 
-Backend engineer and technical co-founder with 2+ years building distributed systems and transactional infrastructure for fintech and EdTech platforms. Currently building production systems at **[Centiiv](https://centiiv.com)** and co-founding **AfriRoots** — a gamified African language learning platform.
+Backend engineer and technical co-founder with 2+ years building distributed systems and transactional infrastructure for fintech and EdTech platforms. Currently at **[Centiiv](https://centiiv.com)** and co-founding **AfriRoots** — a gamified African language learning platform.
 
 **Core stack:** TypeScript · Node.js · NestJS · PostgreSQL · Redis · RabbitMQ · Microsoft Azure · Docker
 
 ---
 
-## What I work on
+## What I build
 
-**At Centiiv** — backend infrastructure for a cross-border payments platform: escrow state machines tracking $10M+ in financial volume, real-time WebSocket dispute systems, RabbitMQ-driven microservice pipelines, and a public-facing merchant API integration layer.
+**At Centiiv** — backend infrastructure for a cross-border payments platform: escrow state machines tracking $10M+ in financial volume, real-time WebSocket dispute systems, RabbitMQ-driven microservice pipelines, and a public merchant API integration layer.
 
 **At AfriRoots** — technical co-founder building an EdTech platform to preserve and document African languages in a gamified, Duolingo-style experience. Live beta with 50+ users and 30+ language contributors.
 
@@ -16,11 +16,11 @@ Backend engineer and technical co-founder with 2+ years building distributed sys
 
 ## Featured Projects
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [AfriRoots](https://github.com/Benedict-arowo) | Gamified African language learning platform (beta) | Next.js, PERN, Redis, Azure |
-| [Scissor](https://github.com/Benedict-arowo/Scissor---Capstone-Project) | URL analytics & security platform with threat scanning, geolocation analytics, background workers, and QR generation. Live at [arowobenedict.tech](https://arowobenedict.tech) | TypeScript, Express, PostgreSQL, Redis |
-| [CircleConnect](https://github.com/Benedict-arowo/CircleConnect) | Student collaboration platform | JavaScript, Express, MongoDB |
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| **[AfriRoots](https://github.com/Benedict-arowo)** | Gamified African language learning platform (beta) | Next.js, PERN, Redis, Azure |
+| **[Ballot](https://github.com/Benedict-arowo/Ballot)** | Full election management system — built in 72 hours. OTP auth, audit logs, RBAC. Processed 1,299 votes for a live university election. Audit logs caught a real-time vote manipulation attempt. | TypeScript, Express.js, PostgreSQL, React |
+| **[Scissor](https://github.com/Benedict-arowo/Scissor---Capstone-Project)** | URL analytics & security platform — VirusTotal threat scanning, geolocation analytics, Redis deduplication, background workers, QR generation | TypeScript, Express.js, PostgreSQL, Redis |
 
 ---
 
@@ -65,6 +65,5 @@ Backend engineer and technical co-founder with 2+ years building distributed sys
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/[your-handle])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/benedict-arowo)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:benedict.arowo@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Website-000000?style=flat&logo=vercel&logoColor=white)](https://arowobenedict.tech)
